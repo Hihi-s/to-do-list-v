@@ -3,12 +3,12 @@ const state = {
   todos: [
   {
     id: 1,
-    title: '編輯action',
+    title: '買牛奶',
     done: false
   },
   {
     id: 2,
-    title: '資料庫連不上',
+    title: '寫作業',
     done: true
   }
   ]
